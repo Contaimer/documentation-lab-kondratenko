@@ -59,6 +59,7 @@ Host: api.example.com
   }
 }
 
+
 Валідаційна помилка 
 {
   "error": "Field 'title' is required"
