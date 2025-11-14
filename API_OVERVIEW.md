@@ -49,7 +49,7 @@ Host: api.example.com
   "title": "Clean room"
 }
 
-✔ Приклад відповіді 
+
 {
   "message": "Task created successfully",
   "task": {
@@ -59,12 +59,12 @@ Host: api.example.com
   }
 }
 
-❗ Валідаційна помилка 
+Валідаційна помилка 
 {
   "error": "Field 'title' is required"
 }
 
-❗ Коди відповіді
+Коди відповіді
 Код	Опис
 231	Задачу створено
 378	Некоректні дані у запиті
